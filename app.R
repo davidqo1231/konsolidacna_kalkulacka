@@ -10,7 +10,10 @@
 library(shiny)
 library(shinyjs)
 
-df <- 
+df <- readr::read_csv(file = "https://raw.githubusercontent.com/davidqo1231/konsolidacna_kalkulacka/main/Data/Data.csv", sep = ";")
+  
+  
+  cpi <- readr::read_csv(file = "https://raw.githubusercontent.com/davidqo1231/zaklady_ekonomie_2/main/07_Inflacia/Raw_data/cpi_susr.csv")
 
 ui <- fluidPage(
   HTML("<h4>Konsolidacne opatrenia</h4>"),

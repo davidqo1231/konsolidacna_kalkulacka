@@ -1,0 +1,10 @@
+﻿id;measure_name;slider;slider_unit;slider_base;slider_min;slider_max;size_perunit;perc_hdp;category
+1;Zmena zdanenia piva;1;sadzba;20;10;30;500004;0.0050%;prijmove
+2;Posun veku odchodu do dochodku u policajtov;1;vek;50;40;60;422255;0.0042%;vydavkove
+3;Zmena dane na mineralne oleje;1;sadzba;45;35;55;5544331;0.0554%;prijmove
+4;Zrusenie vlakov zadarmo;0;;;;;4233332;0.0423%;vydavkove
+5;Zmena poctu statnych uradnikov;1;pocet ludi;0;-10000;10000;21555;0.0002%;vydavkove
+6;Naviazanie odchodu do dochodku na priemernu dlzku dozitia v zdravi;0;;;;;23222555;0.2322%;vydavkove
+7;Zmena prispevku do 2. piliera;1;% z hrubej mzdy;4;2;6;1533125;0.0153%;vydavkove
+8;Zrusenie kruzkovneho pre deti z bohatych rodin;0;;;;;9233445;0.0923%;vydavkove
+9;Zmena DPFO;1;sadzba;19;14;24;12451121;0.1245%;prijmove
